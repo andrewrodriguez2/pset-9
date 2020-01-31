@@ -33,7 +33,7 @@ public class Exercises {
 	public ArrayList<String> middle(ArrayList<String> values) {
 		// write your code here
 		
-		return null;	// sssssssssdefault return value to ensure compilation
+		return null;	// ssssssssssdefault return value to ensure compilation
 	}
 
 	public boolean increasing(ArrayList<Integer> numbers) {
